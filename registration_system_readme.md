@@ -8,10 +8,11 @@ Dies ist ein Backend-System zur Verwaltung einiger Daten zu Universitäten bzw. 
 
 ### Verfügbare Funktionen:
 - CRUD-Funktionen für die oben genannten Daten (sind über die Rest-Schnittstelle verfügbar)
-- Schutzfunktionen zum Schutz von Rest-Schnittstelle, damit die CRUD-Funktionen den Personen entsprechend ihrer Rollen zur Verfügung stehen
+- Schutzfunktionen zum Schutz von REST-Schnittstelle, damit die CRUD-Funktionen den Personen entsprechend ihrer Rollen zur Verfügung stehen
 - Die Funktion zum Versenden einer E-Mail, die in einigen Fällen automatisch E-Mails versendet, z. B. bei der Registrierung eines neuen Studenten
 - Verschlüsselungsfunktionen einiger sensibler Daten beim Speichern in Datenbanken
 - Logging-Funktionen zum Aufzeichnen des Funktionen Flusses in einer Datei
+- Caching-Funktionen zur Reduzierung der Datenbankzugriffe
 - ...
 
 ### Verwendete Technologien:
