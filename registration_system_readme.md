@@ -1,5 +1,5 @@
 # Registration System
-Dies ist ein kleines Backend-System zur Verwaltung einiger Daten zu Universitäten bzw. Schulen.
+Dies ist ein Backend-System zur Verwaltung einiger Daten zu Universitäten bzw. Schulen.
 
 ### Dieses System kann verwendet werden, um die folgenden Daten zu verwalten:
 - Studentendaten
