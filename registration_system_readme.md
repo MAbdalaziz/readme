@@ -13,6 +13,7 @@ Dies ist ein Backend-System zur Verwaltung einiger Daten zu Universitäten bzw. 
 - Verschlüsselungsfunktionen einiger sensibler Daten beim Speichern in Datenbanken
 - Logging-Funktionen zum Aufzeichnen des Funktionen Flusses in einer Datei
 - Caching-Funktionen zur Reduzierung der Datenbankzugriffe
+- Revisionsfunktionen
 - ...
 
 ### Verwendete Technologien:
