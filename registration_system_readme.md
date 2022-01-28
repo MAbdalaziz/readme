@@ -26,7 +26,7 @@ Dies ist ein Backend-System zur Verwaltung einiger Daten zu Universitäten bzw. 
 - Die Standard-Anmeldedaten für einen Benutzer mit Administratorrechten sind: **benutzername**: admin **passwort**: Admin
 - Über den Link **http://localhost:8080/api-docs-ui.html** können Sie sich die verfügbaren Rest Interfaces in Open-Api-Ui ansehen.
   - Bitte beachten Sie, dass die Open-Api-Ui nicht vollständig für die Verwendung konfiguriert ist
-- Dieses System habe ich im 2020 mit der Absicht entwickelt, es in meinen Lebenslauf aufzunehmen. Das bedeutet, dass das System einige schlechte Dinge enthalten kann, die ich damals aufgrund meiner mangelnden Erfahrung gemacht habe. Dazu gehört beispielsweise die Verwendung deutscher Begriffe als Namen für einige Klassen oder auch Klassenattribute.
+- Dieses System habe ich im 2020 mit der Absicht entwickelt, es in meinen Lebenslauf aufzunehmen und meine Kenntisse weiterzuentwicklern und zu vertiefen. Das bedeutet, dass das System einige schlechte Dinge enthalten kann, die ich damals aufgrund meiner mangelnden Erfahrung gemacht habe. Dazu gehört beispielsweise die Verwendung deutscher Begriffe als Namen für einige Klassen oder auch Klassenattribute.
 
 ## Autoren
 **Mohammed Abdalaziz**  [Github](https://github.com/MAbdalaziz)
