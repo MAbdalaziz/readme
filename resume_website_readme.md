@@ -8,6 +8,7 @@ In diesem Projekt wurde eine vorgefertigte HTML-CSS-Vorlage verwendet.
 - Funktionen ermöglichen die Anzeige der Website in mehreren Sprachen
 - Funktionen zum Schützen von Seiteninhalten, sodass nur über ein Token darauf zugegriffen werden kann
 - CMS-Funktionen, mit denen man den Inhalt der Seite direkt über die grafische Oberfläche reibungslos und einfach ändern kann **(Das CMS ist keine externe Bibliothek, sondern wurde von mir implementiert)**
+- Automatisierter Build-Prozess, um die Applikation nach den Änderungen zu bauen, einige Dateien zu verschlüsseln und die Applikation auf Github zu veröffentlichen.
 
 ### Verwendete Technologien:
 - Node.js
