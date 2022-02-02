@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/50682264/152093734-bec783e7-6699-4a6e-
 - JavaScript
 - I18n
 
-<i> * In diesem Projekt wurde eine vorgefertigte HTML-CSS-Voralge verwendet. </i>
+<i> * In diesem Projekt wurde die CSS-Codes einer vorgefertigte Vorlage verwendet. </i>
 
 ## Autoren
 **Mohammed Abdalaziz**  [Github](https://github.com/MAbdalaziz)
