@@ -1,7 +1,5 @@
 # Meine Lebenslauf-Webseite
-Dieses Projekt ist mein elektronischer Lebenslauf, der Karriere- und Bildungsinformationen sowie eine Liste von Projekten enthält, an denen ich programmiert oder an denen ich teilgenommen habe.
-In diesem Projekt wurde eine vorgefertigte HTML-CSS-Vorlage verwendet.
-
+Dieses Projekt ist mein elektronischer Lebenslauf, der Informationen zu meinem beruflichen und schulischen Werdegang sowie eine Liste von Projekten enthält, die ich privat entwickelt habe oder an denen ich mit meinem Arbeitgeber beteiligt war.
 
 ### Verfügbare Funktionen:
 - Funktionen zum dynamischen und vollständig vom Code isolierten Hinzufügen von Inhalten zur Seite
@@ -17,6 +15,7 @@ In diesem Projekt wurde eine vorgefertigte HTML-CSS-Vorlage verwendet.
 - JavaScript
 - I18n
 
+<i> * In diesem Projekt wurde eine vorgefertigte HTML-CSS-Voralge verwendet. </i>
 
 ## Autoren
 **Mohammed Abdalaziz**  [Github](https://github.com/MAbdalaziz)
